@@ -8,6 +8,8 @@ Assignment 1.2 - 8945 ответ
 
 Assignment 2 - 9342 ответ
 
+Assignment 3 - 7567 ответ
+
 Assignment 4 - 1937 ответ
 
 <div id ="sch" align="center">
